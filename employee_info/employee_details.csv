@@ -1,0 +1,11 @@
+employee_id,name,age,salary,location,department,designation,joining_date
+EMP001,Yagnesh,19,25000,Pune,Engineering,Junior Developer,2023-01-15
+EMP002,Nirlaj,17,18000,Mumbai,Data Science,Software Engineer,2023-06-01
+EMP003,Khilesh,20,35000,Pune,Frontend,Senior Engineer,2022-08-10
+EMP004,Rahul,22,40000,Bangalore,Backend,AI Engineer,2022-11-20
+EMP005,Priya,24,45000,Delhi,DevOps,UI Developer,2021-03-05
+EMP006,Amit,28,55000,Hyderabad,Quality Assurance,DevOps Engineer,2020-09-12
+EMP007,Sneha,26,50000,Mumbai,UI/UX,QA Lead,2021-12-01
+EMP008,Rohan,30,65000,Pune,Product,Product Specialist,2019-05-18
+EMP009,Neha,23,38000,Chennai,Analytics,Data Analyst,2022-02-14
+EMP010,Vikas,32,70000,Bangalore,Security,Security Analyst,2018-07-22

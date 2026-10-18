@@ -1,0 +1,11 @@
+project_id,employee_id,name,project_name,role,allocated_hours,status
+PRJ001,EMP001,Yagnesh,AI Chatbot Integration,Backend Developer,160,In Progress
+PRJ002,EMP002,Nirlaj,E-Commerce Mobile App,Junior Developer,120,In Progress
+PRJ001,EMP003,Khilesh,AI Chatbot Integration,Frontend Lead,150,In Progress
+PRJ003,EMP004,Rahul,Cloud Migration Phase 2,DevOps Specialist,180,Completed
+PRJ004,EMP005,Priya,Healthcare Analytics Portal,Data Analyst,140,Completed
+PRJ003,EMP006,Amit,Cloud Migration Phase 2,Project Lead,160,Completed
+PRJ002,EMP007,Sneha,E-Commerce Mobile App,UI/UX Designer,130,In Progress
+PRJ005,EMP008,Rohan,Enterprise Security Audit,Security Consultant,170,In Progress
+PRJ004,EMP009,Neha,Healthcare Analytics Portal,QA Specialist,110,Completed
+PRJ005,EMP010,Vikas,Enterprise Security Audit,Solution Architect,190,In Progress
